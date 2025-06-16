@@ -6,7 +6,7 @@ import pickle
 from scipy.spatial.transform import Rotation as R
 import numpy as np
 
-model_path = r'C:\Users\Doney\Workspace\MANO\models\mano'
+model_path = 'models/mano'
 n_comps = 45
 batch_size = 1
 
